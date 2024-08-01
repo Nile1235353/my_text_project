@@ -1,0 +1,27 @@
+.container{
+    background-color: black;
+    display: flex;
+    width: 100%;
+}
+
+.profile_info{
+    background-color: #323B4C;
+    width: 15%;
+    margin-left: 25%;
+    height: 1500px;
+}
+
+.profile_photo{
+    background-color: blue;
+    width: 50%;
+    margin-top: 15%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.profile_detail{
+    background-color: #FFFFFF;
+    width: 30%;
+    margin-right: 25%;
+    height: 1500px;
+}
